@@ -20,3 +20,15 @@ function destructivelyRemoveFirstKitten() {
   return kittens;
 }
 
+function prependKitten(name) {
+  kitten.splice();
+}
+
+
+
+
+
+
+
+
+
